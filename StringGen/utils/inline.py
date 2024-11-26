@@ -9,7 +9,7 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="sᴏᴜʀᴄᴇ", url="https://envs.sh/B-R.mp4"
+                text="sᴏᴜʀᴄᴇ", url="https://t.me/PiratesMainchat"
             ),
         ],
     ]
