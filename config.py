@@ -13,3 +13,4 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 OWNER_ID = int(getenv("OWNER_ID", 7078181502))
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PiratesMainchat")
+MUST_JOIN = getenv("MUST_JOIN", None)
